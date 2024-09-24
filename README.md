@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HamzaYusufSk
 - 👀 I’m interested in Web Development, WEB3
-- 🌱 I’m currently learning Nextjs
+- 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on Web3, Full Stack
 - 📫 How to reach me skhamzayusuf@rediffmail.com
 - 😄 Pronouns: He/Him
